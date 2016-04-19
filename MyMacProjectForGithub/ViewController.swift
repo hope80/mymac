@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        print("Did my mac github project commit to new branch?")
+        print("Did my test mac github project commit to new branch?")
     }
 
     override func didReceiveMemoryWarning() {
